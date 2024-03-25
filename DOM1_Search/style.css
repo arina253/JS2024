@@ -1,0 +1,19 @@
+.one{
+    color: blue;
+    background-color : yellow;
+    width : 50px;
+    height : 50px
+}
+
+
+.two{
+    color:red;
+    background-color:brown;
+    width:50px;
+    height:50px
+
+}
+
+#three{
+    color: green
+}
